@@ -43,9 +43,11 @@ To get started, follow these steps:
 ## 🎯 Learning Plan
 
 Here’s the roadmap I’m following to learn HTML:
-1. [HTML Introduction](./Introduction/README.md)
+1. [HTML Introduction](./introduction/README.md)
 2. [HTML History](./history/README.md)
-3. [HTML Basics](./basics/README.md): Tags, elements, attributes, and structure.
+3. [Getting Started with HTML](./getting-started/README.md)
+4. [HTML Document Structure](./html-structure/README.md)
+5. [HTML Basics](./basics/README.md): Tags, elements, attributes, and structure.
 
 Each topic will have its own dedicated README and examples.
 
