@@ -37,7 +37,7 @@ The structure of an HTML document is essential to understanding how a webpage is
 - All other elements are nested inside `<html>`.
 - **Attributes**:
   - `lang="en"` specifies the document's language (English in this case). This is important for accessibility and search engines.
-- More about `<html>`: [`<html>`](./root-element/README.md)
+- More about `<html>`: [`<html>` (Root Element)](./root-element/README.md)
 
 #### 3. Head Section: `<head>`
 ```html
