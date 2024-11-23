@@ -68,7 +68,7 @@ HTML was created by Tim Berners-Lee in 1991 to structure and share documents on 
 -   **HTML 2.0 (1995)**: Introduced standardized web development.
 -   **HTML5 (Present)**: The latest and most advanced version, supporting modern web technologies like multimedia, APIs, and semantic tags.
 
-More about history: [HTML History](./history/README.md)
+More about history: [HTML History](../history/README.md)
 ## Web Browsers
 HTML files are not compiled like traditional programming languages. Instead, browsers (e.g., Chrome, Firefox) interpret HTML and render content visually.
 Example workflow:

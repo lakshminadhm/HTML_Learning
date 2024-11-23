@@ -27,7 +27,7 @@ The structure of an HTML document is essential to understanding how a webpage is
 - The **`<!DOCTYPE html>`** declaration specifies the document type and version of HTML being used.
 - It ensures the browser renders the page correctly.
 - Modern HTML documents use `<!DOCTYPE html>` for HTML5.
-- More about DOCTYPE - [Evolution and Details of DOCTYPE in HTML](./DOCTYPE.md)
+- More about DOCTYPE - [Evolution and Details of DOCTYPE in HTML](./DOCTYPE/README.md)
 
 ### 2. Root Element: `<html>`
 ```html
