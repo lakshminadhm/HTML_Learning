@@ -57,7 +57,7 @@ The structure of an HTML document is essential to understanding how a webpage is
   - `<link>`: Links external resources like stylesheets.
   - `<style>`: Contains internal CSS.
   - `<script>`: Embeds JavaScript code.
-- More about <head> : [Understanding the `<head>` Section](./head-element/README.md)
+- More about `<head>` : [Understanding the `<head>` Section](./head-element/README.md)
 
 
 ### 4. Body Section: `<body>`
@@ -74,7 +74,7 @@ The structure of an HTML document is essential to understanding how a webpage is
   - **Images**: `<img>` for pictures.
   - **Links**: `<a>` for hyperlinks.
   - **Lists**: `<ul>` (unordered) and `<ol>` (ordered) for lists.
-
+- More about `<body>` : [Understanding the `<body>` Section in HTML](./body-section/README.md)
 
 ## Detailed Element Table
 
